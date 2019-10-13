@@ -1,7 +1,6 @@
-# Octave on mybinder.org
+# Jupyter Notebooks for Sat-Chirp Project
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tbondy760/octave/master)
+To launch on binder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/tbondy760/sat-chirp-notebooks/master)
 
-An example of using Octave on [mybinder.org](https://mybinder.org/).
-
-This shows you how to make Matlab code that works with [Octave](https://www.gnu.org/software/octave/) run on [mybinder.org](https://mybinder.org/).
+Notebooks requiring [Octave](https://www.gnu.org/software/octave/) are supported here.
