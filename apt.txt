@@ -3,3 +3,5 @@ octave-symbolic
 octave-miscellaneous
 gnuplot
 ghostscript
+inkscape
+
