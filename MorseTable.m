@@ -1,6 +1,6 @@
 # The index of a character in the following when converted to base 3 number represents the
 # Morse code, where 1 = dit, 2 = dah
-Morse_char_to_trinary_map = cstrcat(
+global Morse_char_to_trinary_map = cstrcat(
 # The body of the following can be initially inited using the following awk program
 # awk 'BEGIN { for(i=0; i<=1121; i++) { print "\" \", # ", i }}' < /dev/null 
 " ", # 0        
