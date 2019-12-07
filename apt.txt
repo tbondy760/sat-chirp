@@ -4,4 +4,5 @@ octave-miscellaneous
 gnuplot
 ghostscript
 inkscape
+liboctave-dev
 
