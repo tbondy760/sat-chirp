@@ -1,1 +1,13 @@
 .DS_Store
+.bash_history
+.bash_logout
+.bashrc
+.conda/
+.config/
+.gitconfig
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.octave_hist
+.profile
