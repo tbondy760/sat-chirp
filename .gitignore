@@ -11,3 +11,5 @@
 .local/
 .octave_hist
 .profile
+.octave_packages
+octave/
