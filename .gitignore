@@ -13,3 +13,4 @@
 .profile
 .octave_packages
 octave/
+core.octave-cli.*
